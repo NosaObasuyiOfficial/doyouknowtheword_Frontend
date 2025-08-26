@@ -14,8 +14,7 @@ function App() {
 
         <div className="relative flex items-center justify-center h-full">
           <div className="absolute bg-[#3E434C] h-[140px] w-full blur-xl"></div>
-        
-        
+               
         <h1 className="relative text-white text-[20px] font-bold z-20 text-center">Coming Soon</h1>
         </div>
 
