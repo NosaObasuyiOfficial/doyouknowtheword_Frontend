@@ -1,4 +1,4 @@
 [build]
   base = "DYKTW"
-  publish = "DYKTW/dist"
+  publish = "dist"
   command = "npm run build"
